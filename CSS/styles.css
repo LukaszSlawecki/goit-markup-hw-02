@@ -53,6 +53,7 @@ a {
 }
 .button-style:hover {
   background-color: #2196f3;
+  color: #ffffff;
 }
 footer {
   background-color: #2f303a;
@@ -65,9 +66,11 @@ ul {
   background-color: #2f303a;
   font-family: "roboto";
 }
-.button1 {
+.button-1 {
   background-color: #2196f3;
   color: #ffffff;
+  cursor: pointer;
+  border: none;
 }
 .list {
   color: #212121;
@@ -101,10 +104,10 @@ ul {
   font-size: 14px;
   line-height: 24px;
 }
-.logo-header2 {
+.logo-header-2 {
   color: #ffffff;
 }
-.logo-header2 span {
+.logo-header-2 span {
   color: #2196f3;
   font-weight: 700px;
   font-family: "Raleway";
